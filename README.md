@@ -3,12 +3,14 @@ Captator.CodeTools
 
 Tools for .NET based development
 
+Copyright © 2014 Captator
+
 Captator.CodeTools currently contains the following tools:
 
 Analyzers:
 EmptyCatchAllAnalyzer
 EmptyCatchAnalyzer
-MissingBlock (Analyzer & Fixer)
+MissingBlockAnalyzer & -Fixer
 PrivateFieldNamingAnalyzer
 SuperfluousTypeAnalyzer
 
